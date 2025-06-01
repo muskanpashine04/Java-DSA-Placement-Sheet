@@ -52,7 +52,7 @@ class Solution {
         System.out.println("Longest common prefix of " + java.util.Arrays.toString(strs5) + ": " + solution.longestCommonPrefix(strs5)); // Output:
     }
 }
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   class Solution {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
