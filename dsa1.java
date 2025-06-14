@@ -1,3 +1,4 @@
+Q1   Find the maximum and minimum element in an array.
 public class FindMinMax {
     public static void findMinMax(int[] arr) {
         if (arr == null || arr.length == 0) {
