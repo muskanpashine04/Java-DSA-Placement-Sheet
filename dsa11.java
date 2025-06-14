@@ -1,3 +1,5 @@
+Q 11. Rearrange array in alternating positive & negative items
+
 import java.util.Arrays;
 
 class RearrangeAlternating {
