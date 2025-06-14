@@ -1,3 +1,5 @@
+Q 15. Missing number in array [1 to n]
+
 class FindMissing {
     public static int findMissingNumber(int[] arr, int n) {
         // Calculate the expected sum of numbers from 1 to n
