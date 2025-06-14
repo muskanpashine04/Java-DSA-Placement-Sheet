@@ -1,3 +1,5 @@
+Q 12. Count the number of occurrences of an element
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
