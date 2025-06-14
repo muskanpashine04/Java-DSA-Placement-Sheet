@@ -1,3 +1,5 @@
+Q 16. Find duplicate number in array
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
