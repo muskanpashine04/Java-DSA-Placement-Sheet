@@ -1,4 +1,4 @@
-Q20. Maximum Product Subarray
+Q2 Reverse an array in place
 
 public class ReverseArray {
     public static void reverseArray(int[] arr) {
