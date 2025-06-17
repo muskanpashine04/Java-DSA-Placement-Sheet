@@ -1,3 +1,6 @@
+Q 22. Check for palindrome
+
+
 class EasyPalindromeChecker {
     public static boolean isPalindrome(String str) {
         String reversedStr = new StringBuilder(str).reverse().toString();
