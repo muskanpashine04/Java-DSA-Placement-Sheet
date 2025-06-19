@@ -1,4 +1,5 @@
-public class CountAndSay {
+Q 26. Count and say problem
+    public class CountAndSay {
 
     public static String countAndSay(int n) {
         if (n <= 0) {
