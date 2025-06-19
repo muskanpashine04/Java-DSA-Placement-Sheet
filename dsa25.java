@@ -1,3 +1,4 @@
+Q 25. Check if two strings are anagrams
 import java.util.Arrays;
 
 class AnagramChecker {
