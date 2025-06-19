@@ -1,4 +1,5 @@
-class Solution {
+Q 27. Longest common prefix
+    class Solution {
     /**
      * Finds the longest common prefix of an array of strings.
      *
