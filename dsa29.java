@@ -1,4 +1,5 @@
-public class StrStrImplementation {
+Q 29. Implement strstr() (substring search)
+    public class StrStrImplementation {
 
     /**
      * Implements the strstr() function (substring search) using a brute-force approach.
