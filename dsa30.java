@@ -1,4 +1,5 @@
-public class ValidPalindromeII {
+Q 30. Valid Palindrome after removing at most one character
+    public class ValidPalindromeII {
 
     /**
      * Checks if a string can be a palindrome after deleting at most one character.
