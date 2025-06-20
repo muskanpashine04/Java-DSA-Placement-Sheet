@@ -1,4 +1,5 @@
-import java.util.Arrays;
+Q 3. Find the 'Kth' max and min element of an array
+    import java.util.Arrays;
 
 public class KthMinMaxSimple {
 
