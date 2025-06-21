@@ -1,4 +1,5 @@
-public class StringRotationChecker {
+Q 34. Check if a string is a rotation of another string
+    public class StringRotationChecker {
 
     /**
      * Checks if one string is a rotation of another.
