@@ -1,4 +1,5 @@
-import java.util.Arrays;
+Q 31. Compress the string (like Leetcode 443)
+    import java.util.Arrays;
 
 public class StringCompression {
 
