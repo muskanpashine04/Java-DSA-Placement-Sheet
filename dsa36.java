@@ -1,4 +1,5 @@
-public class MatrixTranspose {
+Q36. Transpose of a matrix
+    public class MatrixTranspose {
 
     /**
      * Computes the transpose of a given matrix.
