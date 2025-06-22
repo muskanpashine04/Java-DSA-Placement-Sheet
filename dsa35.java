@@ -1,4 +1,5 @@
-public class SubsequenceChecker {
+Q35. Check if one string is a subsequence of another
+    public class SubsequenceChecker {
 
     /**
      * Checks if string s1 is a subsequence of string s2.
