@@ -1,4 +1,5 @@
-public class MatrixMultiplication {
+Q 40. Matrix multiplication
+    public class MatrixMultiplication {
 
     /**
      * Multiplies two matrices and returns the result matrix.
