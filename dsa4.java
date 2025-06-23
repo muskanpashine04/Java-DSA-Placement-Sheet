@@ -1,4 +1,5 @@
-public class Sort012 {
+
+    public class Sort012 {
     public static void sort012(int[] arr) {
         int low = 0;
         int mid = 0;
