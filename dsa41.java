@@ -1,4 +1,5 @@
-public class MatrixZeroer {
+Q 41. Set entire row and column to 0 if any element is 0
+    public class MatrixZeroer {
 
     public static void setZeroes(int[][] matrix) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
