@@ -1,4 +1,5 @@
-public class SearchA2DMatrix {
+ Q46. Search a 2D matrix (Leetcode 74)
+     public class SearchA2DMatrix {
 
     /**
      * Searches for a target value in an m x n integer matrix with the following properties:
