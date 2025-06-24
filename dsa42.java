@@ -1,4 +1,5 @@
-public class MatrixDiagonals {
+Q 42. Print diagonals of a matrix
+    public class MatrixDiagonals {
 
     public static void printDiagonals(int[][] matrix) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
