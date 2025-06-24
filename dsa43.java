@@ -1,4 +1,5 @@
-public class SnakePattern {
+Q 43. Snake pattern printing
+    public class SnakePattern {
 
     public static void printSnakePattern(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
