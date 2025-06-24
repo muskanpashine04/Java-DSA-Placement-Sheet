@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+Q 45. Pascal's Triangle
+    import java.util.ArrayList;
 import java.util.List;
 
 public class PascalsTriangle {
