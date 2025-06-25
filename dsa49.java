@@ -1,4 +1,5 @@
-import java.util.Stack;
+Q 49. Maximum size rectangle of all 1s in binary matrix
+    import java.util.Stack;
 
 public class MaxRectangleInBinaryMatrix {
 
