@@ -1,4 +1,5 @@
-public class MoveNegatives {
+Q5. Move all negative numbers to beginning and positive to end
+    public class MoveNegatives {
     public static void moveNegativeToBeginning(int[] arr) {
         int left = 0;
         int right = arr.length - 1;
