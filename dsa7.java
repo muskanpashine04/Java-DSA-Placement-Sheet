@@ -1,4 +1,5 @@
-public class RotateArray {
+Q 7. Cyclically rotate an array by one
+    public class RotateArray {
 
     public static void rotateByOne(int[] arr) {
         if (arr == null || arr.length <= 1) {
