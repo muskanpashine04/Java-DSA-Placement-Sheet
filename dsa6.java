@@ -1,4 +1,4 @@
- 6. Find Union and Intersection of two arrays
+Q 6. Find Union and Intersection of two arrays
 import java.util.HashSet;
 import java.util.Set;
 import java.util.ArrayList;
