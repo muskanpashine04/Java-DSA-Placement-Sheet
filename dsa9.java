@@ -1,4 +1,5 @@
-public class CheckSortedRotated {
+Q 9. Check if array is sorted and rotated
+     public class CheckSortedRotated {
 
     public static boolean isSortedAndRotated(int[] arr) {
         if (arr == null || arr.length <= 1) {
