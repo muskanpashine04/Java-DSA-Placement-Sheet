@@ -1,4 +1,5 @@
-public class KadanesAlgorithm {
+Q 8. Kadane's Algorithm - Maximum Subarray Sum
+ public    class KadanesAlgorithm {
 
     public static int maxSubarraySum(int[] arr) {
         if (arr == null || arr.length == 0) {
