@@ -1,6 +1,7 @@
 Q 10. Leaders in an array
 
-import java.util.ArrayList;
+
+    import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
